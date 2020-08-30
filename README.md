@@ -14,9 +14,9 @@ A Maratona Behind the Code é uma iniciativa digital que visa capacitar e aproxi
 
 - [Desafio 4](https://github.com/elladarte/Maratona_Behind_the_Code_2020/tree/master/Desafio%204) | Algar
 
-- Desafio 5
+- [Desafio 5](https://github.com/elladarte/Maratona_Behind_the_Code_2020/tree/master/Desafio%205) | Tecban
 
-- Desafio 6
+- [Desafio 6](https://github.com/elladarte/Maratona_Behind_the_Code_2020/tree/master/Desafio%206) | LIT
 
 - Desafio 7
 
