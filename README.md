@@ -18,6 +18,6 @@ A Maratona Behind the Code é uma iniciativa digital que visa capacitar e aproxi
 
 - [Desafio 6](https://github.com/elladarte/Maratona_Behind_the_Code_2020/tree/master/Desafio%206) | LIT
 
-- Desafio 7
+- [Desafio 7](https://github.com/elladarte/Maratona_Behind_the_Code_2020/tree/master/Desafio%207) | TNT
 
 - Desafio 8
