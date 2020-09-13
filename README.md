@@ -1,4 +1,4 @@
-## A Maratona 2020
+## Maratona Behind the Code 2020
 
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=Status&message=Em_andamento&color=purple&style=for-the-badge"/>
@@ -20,4 +20,4 @@ A Maratona Behind the Code é uma iniciativa digital que visa capacitar e aproxi
 
 - [Desafio 7](https://github.com/elladarte/Maratona_Behind_the_Code_2020/tree/master/Desafio%207) | TNT
 
-- Desafio 8
+- [Desafio 8](https://github.com/elladarte/Maratona_Behind_the_Code_2020/tree/master/Desafio%208) | FIAT 
